@@ -132,3 +132,4 @@ Structured data (entities, bodies, capabilities, processes, bottlenecks, causes,
 | 2026-11-21 | Every output carries a disclaimer: personal analysis, does not represent the UN |
 | 2026-11-21 | Visual style: independent palette (no UN blue, no SDG colours, no logos); borrow only accessibility and writing-style rules from the UN Türkiye design system |
 | 2026-11-21 | L-1 wording: "distinctive roles / shared-delivery roles / enabling services" (no "replaceable") |
+| 2026-11-21 | Practitioner posts (e.g. LinkedIn) used only as signals: logged manually without names, verified against public sources before use (docs/05-signals-log.md) |
