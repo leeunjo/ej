@@ -124,3 +124,5 @@ Structured data (entities, bodies, capabilities, processes, bottlenecks, causes,
 | 2026-11-21 | Scope = whole UN system; operations (BOS/OMT, UN Türkiye drafts) used as evidence case, not the boundary |
 | 2026-11-21 | Flagships: unit-cost transparency (to country-office level where data reliable) + detailed decision-rights map |
 | 2026-11-21 | Public sources only; ethics clearance before external sharing; internal distribution route also open |
+| 2026-11-21 | Build on UN80 (Action Plan, dashboard, EOSG GitHub data) — position as independent evidence layer + decision-rights map + implementation-risk analysis, not a parallel reform plan (see `01-data-inventory.md`) |
+| 2026-11-21 | data.un.org (country statistics) = low priority; only for cross-country cost normalisation |
