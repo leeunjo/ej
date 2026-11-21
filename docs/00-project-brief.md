@@ -127,3 +127,6 @@ Structured data (entities, bodies, capabilities, processes, bottlenecks, causes,
 | 2026-11-21 | Do not follow UN80's framing or proposals. Use UN80 material (Action Plan, dashboard, EOSG GitHub data) only as evidence of what is being tried; our work is an independent, evidence-based diagnosis and design (see `01-data-inventory.md`, `02-target-design-v0.md`) |
 | 2026-11-21 | data.un.org (country statistics) = low priority; only for cross-country cost normalisation |
 | 2026-11-21 | Qualitative evidence = synthesis of existing published survey/interview-based research only; no new primary interviews or surveys |
+| 2026-11-21 | First deliverable = visual dashboard with business analysis diagrams |
+| 2026-11-21 | Outputs contain no opinions on UN80 |
+| 2026-11-21 | Every output carries a disclaimer: personal analysis, does not represent the UN |
