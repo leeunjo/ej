@@ -126,3 +126,4 @@ Structured data (entities, bodies, capabilities, processes, bottlenecks, causes,
 | 2026-11-21 | Public sources only; ethics clearance before external sharing; internal distribution route also open |
 | 2026-11-21 | Build on UN80 (Action Plan, dashboard, EOSG GitHub data) — position as independent evidence layer + decision-rights map + implementation-risk analysis, not a parallel reform plan (see `01-data-inventory.md`) |
 | 2026-11-21 | data.un.org (country statistics) = low priority; only for cross-country cost normalisation |
+| 2026-11-21 | Qualitative evidence = synthesis of existing published survey/interview-based research only; no new primary interviews or surveys |
