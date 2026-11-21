@@ -130,3 +130,5 @@ Structured data (entities, bodies, capabilities, processes, bottlenecks, causes,
 | 2026-11-21 | First deliverable = visual dashboard with business analysis diagrams |
 | 2026-11-21 | Outputs contain no opinions on UN80 |
 | 2026-11-21 | Every output carries a disclaimer: personal analysis, does not represent the UN |
+| 2026-11-21 | Visual style: independent palette (no UN blue, no SDG colours, no logos); borrow only accessibility and writing-style rules from the UN Türkiye design system |
+| 2026-11-21 | L-1 wording: "distinctive roles / shared-delivery roles / enabling services" (no "replaceable") |

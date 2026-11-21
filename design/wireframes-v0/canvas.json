@@ -1,0 +1,26 @@
+{
+  "v": 3,
+  "createdOnFiles": {"v": 1, "at": "2026-11-21T10:30:00Z"},
+  "title": "UN System Analysis — Dashboard Wireframes",
+  "launch": {"view": "canvas"},
+  "pages": [],
+  "boards": {
+    "Main.dc.html": {"x": 0, "y": 0, "w": 1280, "h": 1560, "title": "Overview (entry page)", "expand": "fill"},
+    "Purpose.dc.html": {"x": 1360, "y": 0, "w": 1280, "h": 1360, "title": "L-1 Purpose and capabilities", "expand": "fill"},
+    "Context.dc.html": {"x": 0, "y": 1900, "w": 1280, "h": 960, "title": "L0 Context diagram"},
+    "Functional.dc.html": {"x": 1360, "y": 1900, "w": 1280, "h": 1000, "title": "L1 Functional flow + measures"},
+    "Swimlane.dc.html": {"x": 0, "y": 3240, "w": 1600, "h": 1280, "title": "L2 Who does what (swimlane, Work layer)"},
+    "Flowchart.dc.html": {"x": 1680, "y": 3240, "w": 1280, "h": 1380, "title": "L3 Operations drill-down (flowchart)"},
+    "Bottleneck.dc.html": {"x": 0, "y": 4960, "w": 1280, "h": 1900, "title": "Bottleneck card (B4 example)", "expand": "fill"},
+    "Options.dc.html": {"x": 1360, "y": 4960, "w": 1280, "h": 1300, "title": "To-be: alternative target models", "expand": "fill"},
+    "Sources.dc.html": {"x": 2720, "y": 4960, "w": 1280, "h": 980, "title": "Sources, method and disclaimer", "expand": "fill"}
+  },
+  "order": ["Main.dc.html", "Purpose.dc.html", "Context.dc.html", "Functional.dc.html", "Swimlane.dc.html", "Flowchart.dc.html", "Bottleneck.dc.html", "Options.dc.html", "Sources.dc.html"],
+  "notes": {
+    "row1": {"x": 0, "y": -300, "text": "1 · Entry and purpose", "kind": "title1", "maxW": 2640},
+    "row2": {"x": 0, "y": 1600, "text": "2 · The system and its functions (L0, L1)", "kind": "title1", "maxW": 2640},
+    "row3": {"x": 0, "y": 2940, "text": "3 · Who does what, and the operations drill-down (L2, L3)", "kind": "title1", "maxW": 2960},
+    "row4": {"x": 0, "y": 4660, "text": "4 · Evidence, options and sources", "kind": "title1", "maxW": 4000}
+  },
+  "designSystems": []
+}
