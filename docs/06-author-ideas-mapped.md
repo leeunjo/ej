@@ -1,0 +1,20 @@
+# Author's Reform Ideas, Mapped to the Analysis
+
+_Source: author's working notes (2026-11-21). Personal incidents are deliberately not recorded here. Each idea is treated as a hypothesis and needs public evidence before it enters any output._
+
+| # | Idea (system-level wording) | Where it sits in the model | Evidence route (public) | Status |
+|---|---|---|---|---|
+| I1 | Focus on what the system does well and must do; exit or hand over functions others (regional banks, NGOs, researchers, vendors) do faster, cheaper or better, and support them instead of competing for funds | L-1 purpose: distinctive vs shared-delivery roles; "comparative advantage test" per function | CEB expenses by function and SDG; MOPAN; evaluations | Hypothesis |
+| I2 | Core analytical work is often outsourced to project-hired experts; build in-house capability for core work | L-1; HR layer | JIU reviews of consultants / non-staff use; CEB HR data | Hypothesis |
+| I3 | Smaller footprint: premises sized to what Member States provide; smaller HQ | L2 lanes (HQ secretariats); enabling services | CEB HR duty-station data: HQ vs field share per entity; premises data (partial) | Measurable now (staff by duty station) |
+| I4 | Rebalance HQ and field: mobility or remote work as norm; move P-3–P-5 posts from overstaffed HQ units to field or common service centres; voluntary separation; compare results with staff numbers per office | HR layer; measures (staff per result) | CEB HR statistics; Secretariat programme budget results (results.un.org) | Partly measurable |
+| I5 | HQ–field gap: country-level coherence improved with the Resident Coordinator system, but entity HQs operate separately; executive heads accountable only to their own governing bodies | Accountability layer; decision-rights map | SG reports on RC system review and Management and Accountability Framework; QCPR surveys of RCs | Core thesis; to evidence |
+| I6 | Policy agility: change rules fast where they cause field delay; track time and opportunity cost of each policy change; recognise successful policy changes | New measure: "policy change cycle time"; target design principle | Rule divergence matrix; HLCM records | New metric proposed |
+| I7 | Mutual recognition does not work well in practice | B4; L3 flowchart | HLCM 2025 (separate contracts, extra documents) | Partly evidenced |
+| I8 | Performance appraisal not linked to team/organisational results in some entities; no consequences; low-cost transparent 360 feedback for all; system-wide exit interviews; managers who block improvement; human-rights-based HR | Q3 (performance management), Q6 (culture) | JIU reports on performance management; published staff surveys; signals log | Hypothesis |
+| I9 | Implementing partner assurance: proof of delivery and quality, digital verification | Beneficiary tracer chain; F5–F6 | HACT framework; OIOS / Board of Auditors findings on partner management | To evidence |
+| I10 | Partner matchmaking platform to broker rather than compete (build on existing partner databases) | To-be: shared-delivery roles | Existing UN partner platforms (to check) | Design idea |
+| I11 | Spending vs progress per SDG, per entity: stop what has no impact, scale what works | New dashboard view | **CEB expenses by SDG per entity, 2018–2025 (downloaded)**; SDG progress assessments (UN Statistics Division) | Data available; attribution caveat |
+| I12 | Cost and benefit of an abrupt halt in aid and development funding | Stress test "major contributor withdraws" | CEB revenue 2024→2025 (−$5.1bn; US earmarked $10.6bn→$3.8bn); published mortality impact studies (to verify) | Partly measurable |
+| I13 | Strategic portfolio notes: peace and security work focused on intra-state conflict; disarmament unfinished; development least effective; complex human rights regime; SDGs as quasi-treaty standards vs binding conventions | L-1 purpose (contested; political) | Literature; handle with care | Park for later |
+| I14 | Use the current funding crisis as an opportunity for reform | Transition path framing | — | Framing |
